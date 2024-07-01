@@ -1,7 +1,7 @@
 Dynamic Data Analyst | Cross-Functional Leader| Business Analyst| 
 
 Hello!
-I’m a strategic Business Data Analyst with over 7 years of rich experience leading product strategy and execution in the technology and consumer goods sectors. I have a proven track record of delivering products that have significantly increased revenue (up to 40%) and customer engagement (up to 30%). I thrive in developing innovative products that resonate with market needs and exceed business objectives. Additionally, I possess strong analytics skills, having spearheaded initiatives that leverage advanced data analysis to refine product strategies and enhance decision-making, achieving a 25% improvement in market penetration and tailored product offerings based on deep user behavior insight
+I’m a strategic Business Data Analyst with over 8 years of rich experience leading product strategy and execution in the technology and consumer goods sectors. I have a proven track record of delivering products that have significantly increased revenue (up to 40%) and customer engagement (up to 30%). I thrive in developing innovative products that resonate with market needs and exceed business objectives. Additionally, I possess strong analytics skills, having spearheaded initiatives that leverage advanced data analysis to refine product strategies and enhance decision-making, achieving a 25% improvement in market penetration and tailored product offerings based on deep user behavior insight
 
 🎯 What I Bring to Your Team:
 Strategic Vision: Expert in formulating product roadmaps that align with business goals, using tools like JIRA and Asana to keep projects on track and within budget.
